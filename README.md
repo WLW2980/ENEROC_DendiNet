@@ -1,5 +1,5 @@
 # ENEROC_DendiNet
-This is the brief introduction of De-Noise De-stationary Inception Network. ENEROC preserves the copyright of HPPC test data. Detailed model and data will not be public for company confidentiality. However, acedemic and reasonable request will be considered under the premise of Company's permission. 
+This is the brief introduction of De-Noise De-stationary Inception Network. ENEROC preserves the copyright of HPPC test data. The comprehensive details encompassing the model and associated data will not be made available publicly, as they are safeguarded by the company's confidentiality protocols. However, acedemic and reasonable request will be considered under the premise of Company's permission. 
 
 
 Our novel transformer based netwrok achieves SOTA on Panasonic dataset for all range ambient temperature(-20deg -10deg, 0deg, 10deg,25deg) in which we use  US06 and HWFT as testing dataset.
